@@ -1,3 +1,4 @@
+Designing **a complete multi-cloud FinOps** leveraging on Terraform to setup all environments **(AWS, Azure, GCP)** and **modules (budget, cost monitoring, security, storage, optimization)**.
 
 ## Project Structure
 ```plaintext
